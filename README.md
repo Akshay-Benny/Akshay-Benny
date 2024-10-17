@@ -5,11 +5,11 @@
 
 - **Microservice API Development (Java, Spring Boot)**
   - Developed RESTful APIs and backend models using Spring Boot for enterprise-level web applications.
-  - [Supabase & PostgREST Integration](https://github.com/Akshay-Benny/Supabase-PostgREST-API)
+  <!-- [Supabase & PostgREST Integration](https://github.com/Akshay-Benny/Supabase-PostgREST-API)-->
 
 - **IoT-Based Web Applications (Spring Boot, Jhipster)**
   - Contributed to IoT solutions using Jhipster and Spring Boot, focusing on embedded programming and system integration.
-  - [IoT-Enabled Web Application](https://github.com/Akshay-Benny/IoT-WebApp)
+  <!--- [IoT-Enabled Web Application](https://github.com/Akshay-Benny/IoT-WebApp)-->
 
 - **Powerful Deployment Pipelines (Docker, PostgreSQL)**
   - Created efficient Docker pipelines for application development, improving team workflow and performance.
@@ -17,7 +17,7 @@
   
 - **Full-Stack Java Developer (Udemy Certified)**
   - Developed scalable web applications with a full-stack Java approach.
-  - [Full-Stack Java Project](https://github.com/Akshay-Benny/FullStack-Java)
+  <!--- [Full-Stack Java Project](https://github.com/Akshay-Benny/FullStack-Java)-->
 
 ### 🛠️ Tech Stack:
 
